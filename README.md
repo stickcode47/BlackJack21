@@ -30,6 +30,6 @@ game that plays blackjack21
 | __name                               |
 ----------------------------------------
 | __init__(hand, name)                 |
-| draw(hand)                           |
-| show(hand, name)                     |
+| draw()                           |
+| show()                     |
 ----------------------------------------
